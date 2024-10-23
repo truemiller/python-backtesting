@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "backtests"
+version = "0.1.0"
+description = "Backtesting.py strategies"
+authors = ["truemiller <josh@truemiller.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Backtesting = "^0.3.3"
+ta = "^0.11.0"
+pandas = "^2.2.3"
+seaborn = "^0.13.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
