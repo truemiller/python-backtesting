@@ -6,12 +6,12 @@ These are ideas I wanted to test and optimize for different markets, and determi
 
 ## Dependencies
 
-- python
-- poetry
-- pandas
-- backtesting
-- seaborn
-- ta
+- [python](https://www.python.org/downloads/)
+- [poetry](https://python-poetry.org/)
+- [pandas](https://pandas.pydata.org/)
+- [backtesting](https://kernc.github.io/backtesting.py/)
+- [seaborn](https://seaborn.pydata.org/)
+- [ta](https://pypi.org/project/ta/)
 
 ## Install
 
