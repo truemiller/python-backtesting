@@ -1,8 +1,7 @@
 # Backtesting.py Crypto Trading Strategies
 
-A few rule-based trading strategies backtested on ByBit spot OHLCV data.
-
-These are ideas I wanted to test and optimize for different markets, and determine profitability.
+A few rule-based trading strategies backtested on ByBit spot OHLCV data
+These are ideas I wanted to test and optimize for different markets go determine viability
 
 ## Dependencies
 
